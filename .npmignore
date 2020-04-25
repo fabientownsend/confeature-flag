@@ -1,0 +1,6 @@
+**/__tests__/**
+src
+tsconfig.json
+babel.config.js
+.eslintignore
+.eslintrc.js
