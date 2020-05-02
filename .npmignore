@@ -1,6 +1,7 @@
 **/__tests__/**
 src
 tsconfig.json
+website
 babel.config.js
 .eslintignore
 .eslintrc.js
