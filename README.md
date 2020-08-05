@@ -22,6 +22,10 @@ Or `npm`:
 
 ```javascript
 const { newConfeatureFlag } = require("confeature-flag");
+
+or
+
+import { newConfeatureFlag } from "confeature-flag";
 ```
 
 **3** - Create the configuration which lists the features and the contexts for which they are released. This will work with a json or JavaScript object.
